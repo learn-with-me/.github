@@ -10,6 +10,7 @@ Purpose of this organization is to serve as a free library for:
 
 - [Dev Setup Handbook](https://learn-with-me.github.io/Development-Setup-Handbook/)
 - [Software Engineering Fundamentals](https://learn-with-me.github.io/Software-Engineering-Fundamentals/)
+- [Self-help Book Summary](https://learn-with-me.github.io/books-self-help/)
 
 ## Upcoming projects
 
