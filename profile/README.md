@@ -5,7 +5,6 @@ This organization exists to serve as a free library of `notes`, `best practices`
 ## Current Active projects
 
 - [Development Setup Handbook](https://learn-with-me.github.io/Development-Setup-Handbook/)
-- [Developer's Handbook](https://learn-with-me.github.io/dev-Handbook/)
 - [Software Engineering Fundamentals](https://learn-with-me.github.io/Software-Engineering-Fundamentals/)
 - [Self-help Book Summary](https://learn-with-me.github.io/books-self-help/)
 
