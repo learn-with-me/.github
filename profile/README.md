@@ -7,6 +7,7 @@ This organization exists to serve as a free library of `notes`, `best practices`
 - [Development Setup Handbook](https://learn-with-me.github.io/Development-Setup-Handbook/)
 - [Software Engineering Fundamentals](https://learn-with-me.github.io/Software-Engineering-Fundamentals/)
 - [Self-help Book Summary](https://learn-with-me.github.io/books-self-help/)
+- [Recipes](https://learn-with-me.github.io/recipes/)
 
 ## Current Active templates
 
